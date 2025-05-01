@@ -1,110 +1,120 @@
+# Save the generated GitHub README profile as a Markdown file
+readme_content = """
 # 👋 Hi, I'm Md Sami Ul Hoque
 
-🎓 **Graduate Student in Electrical and Computer Engineering**  
-📊 **Data Analyst & Visualization Expert**  
-🔬 **Researcher in Deep Learning & Medical Image Processing**  
+🎓 **Graduate Researcher in Electrical & Computer Engineering (SIUE)**  
+🧠 **AI & ML Engineer | Medical Imaging Specialist | Cloud Deployer**  
+📈 **Published 8+ Research Papers in Deep Learning & Image Processing**
 
 ---
 
 ## 🌟 About Me
-I am a versatile professional with a strong foundation in **data analysis**, **visualization**, and **machine learning**. My academic research and corporate experience have equipped me with the ability to turn data into actionable insights and innovative solutions. From building predictive models to designing deep learning pipelines, I strive to blend analytical rigor with cutting-edge technology.
 
-- 📈 **Expertise in:** Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, and Statistical Analysis.  
-- 🔍 **Focused on:** Leveraging machine learning for impactful solutions in healthcare and finance.  
-- 💡 **Core Tools:** Python, MATLAB, Tableau, and Power BI.
+I’m a passionate deep learning engineer and data analyst with strong experience in building scalable AI pipelines for medical and financial domains. With a proven record of research and industry applications, I’ve tackled real-world challenges in image classification, segmentation, and decision automation.
+
+- 🔬 **Specialized in:** Deep learning for medical imaging (MRI, thermography, retinal scans)  
+- 💻 **Skilled in:** CNN, ViT, DINO, SMOTE, CVIPtools, FastAPI, Docker, and cloud deployment  
+- 📊 **Data-Driven Thinker:** Strong background in EDA, feature engineering, and statistical analysis  
+- 🏆 **Awarded Outstanding Graduate Student 2025 @ SIUE**
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 **Loan Approval Prediction & Dashboard Design**
-- **Description:** Automated reporting processes using Python and built predictive models for loan approvals in the financial sector.
-- **Highlights:**
-  - Increased model accuracy by 7% through feature engineering.
-  - Reduced reporting time by 50% with automation.
-  - Designed interactive Tableau dashboards to visualize key metrics.
-- **[View Repository](#)**
+### 🧠 **Deep Learning for Canine Bone Cancer Detection**
+- Built CNN-ViT hybrid pipelines for thermographic image classification
+- Developed custom enhancement algorithms (Gaussian, AHE, edge sharpening)
+- Integrated classical features (GLCM, Laws’) with MLP classifiers in CVIPtools
+- Achieved accuracy up to 96% using cross-validated pipeline
 
-### 🩺 **Medical Image Classification with Hybrid CNN-ViT**
-- **Description:** Developed a hybrid CNN-ViT model for skin lesion detection using the HAM10000 dataset.
-- **Highlights:**
-  - Enhanced classification accuracy through advanced preprocessing and augmentation.
-  - Optimized the training pipeline for efficiency and scalability.
-- **[View Repository](#)**
 
-### 🌡️ **Thermographic Image Enhancement**
-- **Description:** Created a hybrid image enhancement algorithm tailored for thermographic medical images.
-- **Highlights:**
-  - Enhanced image quality using Gaussian filtering, adaptive histogram equalization, and edge detection.
-  - Applied methods to improve the detection of bone cancer in canine images.
-- **[View Repository](#)**
+### 🩺 **Tomato Leaf Disease Classification**
+- Compared ResNet50 vs MobileNet on thermal images using MLP classifier
+- SMOTE used to address class imbalance
+- Published at SPIE 2025  
 
-### 📈 **Data Analysis Portfolio**
-- **Description:** Showcases data analysis and visualization skills using Python, Tableau, and Power BI.
-- **Highlights:**
-  - Comprehensive Exploratory Data Analysis (EDA) on real-world datasets.
-  - Visualized trends and patterns using dynamic dashboards.
-  - Cleaned and transformed raw data to extract meaningful insights.
-- **[View Repository](#)**
 
-### 🧠 **Brain Tumor Classification in MRI Images**
-- **Description:** Conducted a comparative analysis of preprocessing techniques to improve classification accuracy.
-- **Highlights:**
-  - Improved results with a focus on feature extraction and model optimization.
-  - Experimented with both traditional and deep learning approaches.
-- **[View Repository](#)**
+### 🧬 **MRI-Based Brain Tumor Classification**
+- Used enhanced preprocessing + deep learning models on MRI datasets
+- Implemented comparative analysis of deep features and classical texture descriptors  
+
+
+### 🌎 **Land Cover Classification with Deep Learning**
+- Used satellite image datasets for multi-class land cover prediction
+- Applied CNNs with domain-specific augmentation techniques
+- Published in SPIE 2024  
+
+
+### 🧪 **AI-Powered Credit Risk Prediction**
+- Developed ML models in the banking sector for loan approval scoring
+- Integrated Python + SQL workflows for financial decision-making
+- Automated reports and dashboards for faster client onboarding
 
 ---
 
-## 📚 Research & Publications
+## 📚 Publications
 
-### Published Papers
-- **BetaVAEClassifier vs PCAEClassifier: Investigating Variational Autoencoder and Classification for Accurate Identification of White Lesions in Multiple Sclerosis Brain MRIs**  
-  *Applications of Digital Image Processing XLVII, 13137, pp. 17–32, 2024.*  
+🔹 8+ papers published at **SPIE Defense + Commercial Sensing** and **Applications of Digital Image Processing XLVII (2024–25)**  
+🔹 Topics include:
+- Thermographic cancer detection in canines
+- Hybrid enhancement techniques for medical images
+- Deep learning for leaf disease and brain tumor classification
+- Land cover classification from satellite imagery
 
-- **Comparative Analysis of White Matter Lesion Segmentation in Multiple Sclerosis Patients' MRIs**  
-  *Applications of Digital Image Processing XLVII, 13137, pp. 33–41, 2024.*  
-
-- **Comparison of Performance of Two Deep Learning Models for Skin Lesion Classification Using Image Resampling Technique**  
-  *Applications of Digital Image Processing XLVII, 13137, pp. 42–47, 2024.*  
-
-- **Land Cover Classification of Satellite Images Using Deep Learning**  
-  *Applications of Digital Image Processing XLVII, 13137, pp. 187–198, 2024.*  
-
-- **Comparative Analysis of Deep Learning Models for Brain Tumor Classification in MRI Images Using Enhanced Preprocessing Techniques**  
-  *Applications of Digital Image Processing XLVII, 13137, pp. 48–52, 2024.*  
+> 📄 Full list: [Google Scholar](https://scholar.google.com/citations?user=XXXXXX)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### **Data Analysis**
-- Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Statistical Analysis  
-- Tools: Tableau, Power BI, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+### 🧠 AI/ML & Deep Learning
+- CNN, ViT, DINO, MLPs, VAE, GANs, RAG, Hugging Face Transformers
 
-### **Machine Learning**
-- Predictive Modeling, Classification, Image Segmentation  
-- Frameworks: TensorFlow, PyTorch, Keras  
+### 🧪 Image Processing & Feature Extraction
+- GLCM, Laws' Texture, Histogram Features, CVIPtools, OpenCV
 
-### **Programming**
-- Python, MATLAB, C, C++, OpenCV  
+### 🧰 Tools & Languages
+- Python, C++, SQL, MATLAB, JavaScript  
+- TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
 
-### **Cloud & Deployment**
-- Docker, AWS  
+### ☁️ Cloud & Deployment
+- AWS, Azure, Docker, FastAPI, Streamlit, Flask, REST APIs, Git
+
+---
+
+## 📊 Data & Visualization
+- EDA, dashboards (Tableau, Power BI), data wrangling, statistical modeling
+
+---
+
+## 🏅 Awards & Recognition
+
+- 🏆 Outstanding Graduate Student Award – SIUE 2025  
+- 💰 Research Grant Winner – Hybrid DL for Thermographic Imaging  
+- 📸 Winner – National Photo Contest, Bangladesh  
+- 🧪 Champion – National Science Fair, Bangladesh  
 
 ---
 
 ## 🌍 Connect with Me
+
 - 📧 **Email:** [samihoque16@gmail.com](mailto:samihoque16@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/sami316](https://linkedin.com/in/sami316)  
-- 🌐 **GitHub:** [github.com/RedHood316](https://github.com/RedHood316)  
+- 💼 **LinkedIn:** [linkedin.com/in/sami316](https://linkedin.com/in/sami316)  
+- 💻 **GitHub:** [github.com/RedHood316](https://github.com/RedHood316)  
 
 ---
 
 ## 📈 GitHub Stats
-![Md Sami Ul Hoque's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedHood316&show_icons=true&theme=radical)
+
+![Md Sami Ul Hoque's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedHood316&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedHood316&layout=compact&theme=radical)
 
 ---
 
-✨ Explore my repositories to learn more about my work in data analysis, machine learning, and AI. I’m always open to collaborations and discussions!
+✨ Explore my repositories to discover AI-driven solutions in healthcare, agriculture, and finance. Always open to research and industry collaborations!
+"""
+
+with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+"/mnt/data/README.md"

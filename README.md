@@ -1,5 +1,4 @@
-# Save the generated GitHub README profile as a Markdown file
-readme_content = """
+
 # 👋 Hi, I'm Md Sami Ul Hoque
 
 🎓 **Graduate Researcher in Electrical & Computer Engineering (SIUE)**  

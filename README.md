@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Md Sami Ul Hoque
 
 🎓 **Graduate Researcher in Electrical & Computer Engineering (SIUE)**  
-🧠 **AI & ML Engineer | Medical Imaging Specialist | Cloud Deployer**  
+🧠 **Software engineer with experience building web apps, APIs, and tools using Python, FastAPI, SQL, and Docker**  
 📈 **Published 8+ Research Papers in Deep Learning & Image Processing**
 
 ---

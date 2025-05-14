@@ -96,7 +96,4 @@ Pandas, NumPy, Scikit-learn, Power BI, Tableau, Matplotlib
 
 ---
 
-## 📊 GitHub Stats
 
-![Md Sami Ul Hoque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedHood316&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedHood316&layout=compact&theme=radical)
